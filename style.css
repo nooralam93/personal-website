@@ -1,0 +1,106 @@
+body{
+    font-family: 'Mulish', sans-serif;
+    
+}
+.top-benner{
+    background-image: url(images/header-bg.png);
+    height: 550px;
+    background-size:1370px;
+    background-position:top;  
+    background-repeat: no-repeat;
+}
+h1{
+    font-weight: 700;
+}
+#highlight{
+    color: blueviolet;
+    font-weight:1200px;
+    margin-left: 60px;
+}
+
+.link-button{
+    background-color:mediumvioletred;
+    text-decoration: none;
+    padding: 5px 20px;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    padding: 2px;
+} 
+.header{
+    padding-top: 200px;
+    padding-left: 70px;
+    
+  
+}
+.half-width img{
+    width: 95%;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+
+}
+.biography{
+    background-image: url(images/biography-bg.png);
+    height: 750px;
+    
+}
+
+.latest-work{
+    padding-bottom: 60px;
+    font-weight: 800;
+    
+}
+.work-one img{
+    width: 25%;
+    float: left;
+    padding-left: 80px;
+}
+.work-two img{
+    width: 25%;
+    float: left;
+    padding-left:20px;
+}
+.work-three img{
+    width: 25%;
+    float: left;
+    padding-left: 20px;
+}
+.work{
+        background-image: url(images/latest-work-bg.png);
+        height: 550px;
+        background-size: 1350px;
+    
+        background-position: right;
+          
+    }
+    .footer{
+        text-align: center;
+    }
+    .founder{
+        width: 1350px;
+        font-weight: 700;
+        padding: 50px 0px;
+    }
+    .paragraph{
+        width: 400px;
+        padding-left: 500px;
+        text-align: center;
+        margin-top: 50px;
+    }
+    .contact{
+        width: 250px;
+        background-color: magenta;
+        padding: 15px 150px;
+        height: 120px;
+        text-align: center;
+        margin-left:400px;
+        margin-top: 80px;
+        border-radius: 10px;
+    }
+    .marquee{
+        padding-top: 150px;
+        
+    }
